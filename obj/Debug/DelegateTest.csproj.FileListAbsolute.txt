@@ -1,0 +1,5 @@
+c:\users\medusa\documents\visual studio 2015\Projects\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe.config
+c:\users\medusa\documents\visual studio 2015\Projects\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+c:\users\medusa\documents\visual studio 2015\Projects\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+c:\users\medusa\documents\visual studio 2015\Projects\DelegateTest\DelegateTest\obj\Debug\DelegateTest.exe
+c:\users\medusa\documents\visual studio 2015\Projects\DelegateTest\DelegateTest\obj\Debug\DelegateTest.pdb
